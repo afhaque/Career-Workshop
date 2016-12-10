@@ -21,6 +21,30 @@ In this all-day session, you will provide students with a very personalized revi
 
 * This repository also includes a number of *great* examples of resumes. Links to strong LinkedIn profiles and portfolios can also be seen below. These can and *should* be shared with students.
 
+    * LinkedIn:
+
+        * Jordan Biason (Class of Jan 2016): https://www.linkedin.com/in/jbiason
+
+        * Steven Stabile (Class of Jan 2016): https://www.linkedin.com/in/stevenstabile
+
+        * Louis Delia (Class of Jan 2016): https://www.linkedin.com/in/ltdelia
+
+        * Maike Fillmer (Class of Jan 2016): https://www.linkedin.com/in/maikefillmer
+
+        * Mariah McLaughlin (Class of Jan 2016): https://www.linkedin.com/in/mariah-mclaughlin-13b85962
+
+    * Portfolios:
+
+        * Jordan Biason: http://jbiason.herokuapp.com/
+
+        * Louis Delia: https://ltdelia.herokuapp.com/
+
+        * Louis Ritter: http://louisritter.herokuapp.com/
+
+        * Greg Swanson: http://gregswanson.info
+
+        * Jasmine Li: https://lijasminej.github.io/  
+
 --------
 
 ### 1. Instructor Do: Workshop Introduction (5 mins)
